@@ -1,0 +1,251 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+.navcontainer {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  background-color: blueviolet;
+}
+
+.navitems {
+  display: flex;
+  align-content: center;
+  list-style: none;
+}
+
+.items {
+  padding: 20px;
+  text-decoration: none;
+}
+
+.offercontainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.trade {
+  margin-top: 250px;
+}
+.tradepic {
+  /* background-color: yellow; */
+}
+.img {
+  margin: 200px 0;
+  height: 350px;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.trade {
+  padding: 10px;
+}
+
+.tading {
+  font-size: 28px;
+}
+
+.super {
+  font-size: 48px;
+  display: block;
+}
+
+.class {
+  color: #ff6b6b;
+}
+
+.cuppons {
+  color: gray;
+  padding: 10px;
+}
+
+.Shop {
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+}
+.Shop:hover {
+  background-color: rgb(143, 33, 52);
+  transition: background-color 0.4s ease-in-out;
+}
+
+#productscard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.productimage {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.showingp {
+  background-color: #fff;
+  margin: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease;
+  /* width: fit-content; */
+  /* width: 900px; */
+  max-width: 300px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.showingp:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+
+.pricing {
+  color: burlywood;
+}
+
+.category {
+  color: gray;
+}
+
+.nameProduct {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.summer {
+  text-align: center;
+}
+
+.btn {
+  margin: 15px;
+  padding: 5px;
+  border: none;
+  background-color: #fff;
+}
+.btn:hover {
+  cursor: pointer;
+  background-color: lightgray;
+  transform: scale(1.5);
+  transition: background-color 0.4s ease-in-out, transform 0.4s ease-in-out;
+}
+
+.cartbackground {
+  background-image: url("https://images.unsplash.com/photo-1647342003191-70d033b24485?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.custom-table th {
+  background-color: #f2f2f2;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.custom-table th {
+  background-color: #f2f2f2;
+}
+
+.tableImg {
+  width: 140px;
+  height: 100px;
+}
+
+.input-price {
+  padding: 7px;
+  width: 70px;
+}
+
+.svgClassname {
+  height: 30px;
+  width: 40px;
+}
+.tableContainer {
+  margin: 0 40px;
+}
+.shopBack {
+  height: 230px;
+  width: 230px;
+}
+
+.shopContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 300px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.shopCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  height: 300px;
+  width: 300px;
+}
+.shirt {
+  font-size: 17px;
+  padding: 10px;
+}
+.fashion {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.price {
+  padding: 10px;
+  font-size: xx-large;
+  color: rgb(235, 167, 83);
+}
+
+.large {
+  margin: 20px;
+}
+
+.mensFashion {
+  height: auto;
+}
+.cart {
+  padding: 7px;
+  border: none;
+  background-color: aqua;
+}
+.shop-text {
+  font-size: 24px;
+}
+.pTag {
+  margin: 10px;
+}

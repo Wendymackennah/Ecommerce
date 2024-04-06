@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "description": "A high-end smartphone with advanced features.",
+      "price": 799.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1704311875950-c9b90ffc5148?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "description": "Powerful laptop for professional use.",
+      "price": 1299.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1705609122289-8e7521409268?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Classic T-Shirt",
+      "description": "Comfortable cotton t-shirt.",
+      "price": 19.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "name": "Coffee Maker",
+      "description": "Automatic coffee maker with multiple brewing options.",
+      "price": 89.99,
+      "category": "Appliances",
+      "image": "https://media.istockphoto.com/id/1401525395/photo/kids-warm-puffer-jacket-with-yellow-hat-on-orange-background-stylish-childrens-outerwear.jpg?s=2048x2048&w=is&k=20&c=KRU21L42VSqKNpzDmxeCGEfB5gb1Y5bdgR27pgL3uYo=",
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "description": "High-performance running shoes for athletes.",
+      "price": 79.99,
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1579978394084-76e4311bc86c?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 60
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with Bluetooth connectivity.",
+      "price": 49.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1616244916660-d135a013d1f8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 40
+    },
+    {
+      "id": 7,
+      "name": "Designer Watch",
+      "description": "Elegant and stylish designer wristwatch.",
+      "price": 199.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1560264641-1b5191cc63e2?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D    ",
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Gaming Mouse",
+      "description": "High-precision gaming mouse with customizable buttons.",
+      "price": 39.99,
+      "category": "Gaming",
+      "image": "https://images.unsplash.com/photo-1612506001235-f0d0892aa11b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZG9sbHN8ZW58MHx8MHx8fDA%3D",
+      "stock": 25
+    },
+    {
+      "id": 9,
+      "name": "HD Smart TV",
+      "description": "Smart television with high-definition display.",
+      "price": 899.99,
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/157668645/photo/hand-made-doll-isolated.webp?b=1&s=170667a&w=0&k=20&c=DDFsazecOoXSf2gOZQjtupjqjIGPlIxFWXtArjMHoyY=",
+      "stock": 10
+    },
+    {
+      "id": 10,
+      "name": "Leather Wallet",
+      "description": "Genuine leather wallet with multiple card slots.",
+      "price": 29.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1563296704-6df0d360b9ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGRvbGxzfGVufDB8fDB8fHww",
+      "stock": 30
+    },
+    {
+      "id": 11,
+      "name": "Fitness Tracker",
+      "description": "Track your health and fitness with this advanced tracker.",
+      "price": 69.99,
+      "category": "Fitness",
+      "image": "https://plus.unsplash.com/premium_photo-1661609366091-8d1cff8b20ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ",
+      "stock": 50
+    },
+    {
+      "id": 12,
+      "name": "Digital Camera",
+      "description": "Capture stunning photos with this high-resolution camera.",
+      "price": 499.99,
+      "category": "Electronics",
+      "image": " https://images.unsplash.com/photo-1614796918928-c92c79693e94?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGRvbGxzfGVufDB8fDB8fHww  ",
+      "stock": 15
+    },
+    {
+      "id": 13,
+      "name": "Stainless Steel Cookware Set",
+      "description": "Durable and stylish cookware set for your kitchen.",
+      "price": 149.99,
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 12
+    },
+    {
+      "id": 14,
+      "name": "Wireless Earbuds",
+      "description": "Enjoy music on the go with these wireless earbuds.",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://plus.unsplash.com/premium_photo-1664382465508-f9ef253859b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJvb2tzfGVufDB8fDB8fHww",
+      "stock": 35
+    },
+    {
+      "id": 15,
+      "name": "Desktop Monitor",
+      "description": "Large desktop monitor with high-resolution display.",
+      "price": 299.99,
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/1451094814/photo/young-male-student-studying-in-the-library.webp?b=1&s=170667a&w=0&k=20&c=jGHm44Pqc5ZsCfykTIG0sBNrQfXDNypTiHa0tIU7dWg=",
+      "stock": 18
+    },
+    {
+      "id": 16,
+      "name": "Sweater Jacket",
+      "description": "Warm and cozy sweater jacket for chilly days.",
+      "price": 39.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1623609163859-ca93c959b98a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGRyZXNzfGVufDB8fDB8fHww",
+      "stock": 45
+    },
+    {
+      "id": 17,
+      "name": "Gourmet Chocolate Box",
+      "description": "Indulge in the finest gourmet chocolates.",
+      "price": 24.99,
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1592924514972-71c5938462d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGRyZXNzfGVufDB8fDB8fHww",
+      "stock": 22
+    },
+    {
+      "id": 18,
+      "name": "Portable Power Bank",
+      "description": "Charge your devices on the go with this portable power bank.",
+      "price": 29.99,
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/1222188814/photo/afro-girl-dancing-in-yellow-maxi-dress.jpg?s=2048x2048&w=is&k=20&c=fKhJ2Q2xH30-7oSv_zjuUjPVg53x877RS4fu9yg3rVk=",
+      "stock": 28
+    },
+    {
+      "id": 19,
+      "name": "Office Chair",
+      "description": "Ergonomic office chair for maximum comfort during work.",
+      "price": 129.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1594527612221-4902cd3f1463?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGN1cHN8ZW58MHx8MHx8fDA%3D",
+      "stock": 10
+    },
+    {
+      "id": 20,
+      "name": "Canvas Backpack",
+      "description": "Durable canvas backpack for everyday use.",
+      "price": 49.99,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1554385965-4670e69cbb88?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 40
+    }
+  ]
+}
